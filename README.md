@@ -20,6 +20,6 @@ Passionate about cybersecurity, i like to do CTF's and playing games. Interested
 <a href="https://www.buymeacoffee.com/xn4k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
 <!-- Just pm me if you have questions or just want to connect :D-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere thall over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin and introduce yourself (don’t only say hello, tell me about you)</b> 😊 </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere all over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin and introduce yourself (don’t only say hello, tell me about you)</b> 😊 </em>
 
 </p>
