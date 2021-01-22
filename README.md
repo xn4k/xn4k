@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi, my name is Mikhail
 
-<!--
-**xn4k/xn4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/HazeBunny/)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mikhail-zhivoderov/)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mikeammic069/)
+  <a href="mailto:stueckholz@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+  
+Passionate about cybersecurity, i like to do CTF's and playing games. Interested in Web-application testing and coding.
+- 👾 I’m currently bug hunter on hackerone.com 
+- 👻 I’m good at being confused 😂
+- 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
+- 🤵🏼 Fun fact: I love to make music and often i dont even know what i am doing
+- 👨🏽‍💻 2021 Goals: Studying now for CEH Practical and eJPT 
+- [🐳](https://xn4k.github.io/) My Blog
+----
 
-Here are some ideas to get you started:
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xn4k&show_icons=true&hide_border=true&theme=synthwave" />                   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.buymeacoffee.com/xn4k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+
+<!-- Just pm me if you have questions or just want to connect :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere thall over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin and introduce yourself (don’t only say hello, tell me about you)</b> 😊 </em>
+
+</p>
