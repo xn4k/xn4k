@@ -7,9 +7,9 @@
   
 Passionate about cybersecurity, i like to do CTF's and playing games. Interested in Web-application testing and coding.
 - 👾 I’m currently bug hunter on hackerone.com 
-- 👻 I’m good at being confused 😂
+- 👻 I’m good at being confused, OSINT and Steganography 😂
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
-- 🤵🏼 Fun fact: I love to make music and often i dont even know what i am doing
+- 🤵🏼 Fun fact: I love to make music and choke people on BJJ classes
 - 👨🏽‍💻 2021 Goals: Studying now for CEH Practical and eJPT 
 - [🐳](https://xn4k.github.io/) My Blog
 ----
