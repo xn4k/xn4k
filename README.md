@@ -5,6 +5,8 @@
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mikeammic069/)
   <a href="mailto:stueckholz@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   
+  <script src="https://www.hackthebox.eu/badge/239301"></script>
+  
 Passionate about cybersecurity, i like to participate in CTF's and playing games. Interested in Web-application testing and coding.
 - 👾 I’m currently bug hunter on hackerone.com 
 - 👻 I’m good at being confused, OSINT and Steganography 😂
