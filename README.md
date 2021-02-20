@@ -21,7 +21,7 @@ Passionate about cybersecurity, i like to participate in CTF's and playing games
 
 
 
-<p align="center">
+<p align="left">
 <a href="https://www.buymeacoffee.com/xn4k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
 <!-- pm me if you want to connect :P-->
