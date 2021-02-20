@@ -17,7 +17,7 @@ Passionate about cybersecurity, i like to participate in CTF's and playing games
 ----
 <!-- languages and other stats-->
 <img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xn4k&show_icons=true&hide_border=true&theme=synthwave" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xn4k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
