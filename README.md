@@ -12,7 +12,7 @@ Passionate about cybersecurity, i like to participate in CTF's and playing games
 - 👻 I’m good at being confused, interested in PWN and Reverse Engeneering but i have no clue about it 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
 - 🤵🏼 Fun fact: I love to make music, midnight hacking, sports and build some mindmaps😂
-- 👨🏽‍💻 2021 Goals: Studying now for CEH Practical and eJPT(P.S. - got it with 100% Score) 
+- 👨🏽‍💻 2021 Goals: Studying now for CEH Practical and eJPT(P.S. eJPT - almost got it with 100% Score) 
 - [🐳](https://xn4k.github.io/) My Blog
 ----
 <!-- languages and other stats-->
