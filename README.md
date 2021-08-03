@@ -9,6 +9,8 @@
   
   <img src="http://www.hackthebox.eu/badge/image/239301" alt="Hack The Box"> 
   
+  <script src="https://www.hackthebox.eu/badge/239301"></script>
+  
 Passionate about cybersecurity, i like to participate in CTF's and playing games. Interested in Web-application testing and coding.
 - 👾 I’m currently bug hunter on hackerone.com 
 - 👻 I’m good at being confused, interested in PWN and Reverse Engeneering but i have no clue about it. 
