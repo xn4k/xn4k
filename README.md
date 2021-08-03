@@ -7,9 +7,6 @@
   
 [<img src="http://www.hackthebox.eu/badge/image/239301">](https://www.hackthebox.eu/home/users/profile/239301)
   
-  <img src="http://www.hackthebox.eu/badge/image/239301" alt="Hack The Box"> 
-  
-  <script src="https://www.hackthebox.eu/badge/239301"></script>
   
 Passionate about cybersecurity, i like to participate in CTF's and playing games. Interested in Web-application testing and coding.
 - 👾 I’m currently bug hunter on hackerone.com 
