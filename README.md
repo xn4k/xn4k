@@ -10,7 +10,7 @@
   
 Passionate about cybersecurity, i like to participate in CTF's and play games. Interested in Web-application testing and coding.
 - 👾 Currently working as a Developer and doing Bug Hunting in my free time!
-- 👻 I’m good at being confuse. 
+- 👻 I’m good at being confused. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
 - 🤵🏼 Fun fact: I love music, midnight hacking, sports and building some mindmaps😂
 - 👨🏽‍💻 2021 Goals: Studying now for CEH Practical and eJPT(P.S. eJPT - almost got it with 100% Score and failed my CEH Practical. xD) 
