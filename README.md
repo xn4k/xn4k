@@ -9,8 +9,8 @@
   
   
 Passionate about cybersecurity, i like to participate in CTF's and play games. Interested in Web-application testing and coding.
-- 👾 I’m currently bug hunter on hackerone.com and trainee Webdeveloper at SUNZINET!
-- 👻 I’m good at being confused, interested in PWN and Reverse Engeneering but i have no clue about it. 
+- 👾 Currently working as a Developer and doing Bug Hunting in my free time!
+- 👻 I’m good at being confused, interested in Cbersecurity but i have no clue about it. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
 - 🤵🏼 Fun fact: I love music, midnight hacking, sports and building some mindmaps😂
 - 👨🏽‍💻 2021 Goals: Studying now for CEH Practical and eJPT(P.S. eJPT - almost got it with 100% Score and failed my CEH Practical. xD) 
