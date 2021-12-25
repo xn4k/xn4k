@@ -12,8 +12,8 @@ Passionate about cybersecurity, i like to participate in CTF's and play games. I
 - 👾 Currently doing a ~3 year long Apprenticeship, as Computer Science Expert and working as Dev. In the night i am a wannabe Bug Hunter🕵️👨‍💻
 - 👻 I’m good at being confused. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
-- 💻 2022 Goals:
-- 🤵🏼 Fun fact: I love music, midnight hacking, sports and building some mindmaps😂🏽‍ 
+- 🤵🏼 Fun fact: I love music, midnight hacking, sports and building some mindmaps😂🏽‍
+- 👨‍💻 2022 Goals: 
   [![MY PLANS FOR 2022](https://img.youtube.com/vi/OCjAo2jBVQY/0.jpg)](https://youtu.be/OCjAo2jBVQY)
 .
 - [🐳](https://xn4k.github.io/) My Blog
