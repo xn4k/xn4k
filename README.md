@@ -13,7 +13,7 @@ Passionate about cybersecurity, i like to participate in CTF's and play games. I
 - 👻 I’m good at being confused. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
 - 🤵🏼 Fun fact: I love music, midnight hacking, sports and building some mindmaps😂🏽‍
-- 👨‍💻 2022 Goals: 
+- 👨‍💻 2022 Goals: <br>
   "The Game Plan is go in there, swoosh swoosh hit him with some good shit, not get hit, come home with a pocket full of cash."
   [![MY PLANS FOR 2022](https://img.youtube.com/vi/OCjAo2jBVQY/0.jpg)](https://youtu.be/OCjAo2jBVQY)
 .
