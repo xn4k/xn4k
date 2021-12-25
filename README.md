@@ -13,7 +13,7 @@ Passionate about cybersecurity, i like to participate in CTF's and play games. I
 - 👻 I’m good at being confused. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
 - 🤵🏼 Fun fact: I love music, midnight hacking, sports and building some mindmaps😂
-- 👨🏽‍💻 2022 Goals: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OCjAo2jBVQY&ab/0.jpg)](https://www.youtube.com/watch?v=OCjAo2jBVQY&ab_channel=PatrickGavia)
+- 👨🏽‍💻 2022 Goals: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OCjAo2jBVQY/0.jpg)](https://youtu.be/OCjAo2jBVQY)
 .
 - [🐳](https://xn4k.github.io/) My Blog
 ----
