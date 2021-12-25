@@ -14,7 +14,7 @@ Passionate about cybersecurity, i like to participate in CTF's and play games. I
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
 - 🤵🏼 Fun fact: I love music, midnight hacking, sports and building some mindmaps😂
 - 👨🏽‍💻 2022 Goals: 
-- [![MY PLANS FOR 2022](https://img.youtube.com/vi/OCjAo2jBVQY/0.jpg)](https://youtu.be/OCjAo2jBVQY)
+ [![MY PLANS FOR 2022](https://img.youtube.com/vi/OCjAo2jBVQY/0.jpg)](https://youtu.be/OCjAo2jBVQY)
 .
 - [🐳](https://xn4k.github.io/) My Blog
 ----
