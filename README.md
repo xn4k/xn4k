@@ -8,9 +8,9 @@
 [<img src="http://www.hackthebox.eu/badge/image/239301">](https://www.hackthebox.eu/home/users/profile/239301)
   
   
-Passionate about cybersecurity, i like to participate in CTF's and play games. Interested in Web-application testing and coding.
-- 👾 Currently doing a ~3 year long Apprenticeship, as Computer Science Expert and working as Dev. &+ Wannabe Bug Hunter in the night🕵️👨‍💻
-- 👻 I’m good at being confused. 
+Passionate about cybersecurity, working currently as a Software Developer, i like to build things, participate in CTF's and play games. Interested in Web-application testing and coding.
+- 👾 Currently doing a ~3 year long Apprenticeship, as Computer Science Expert &+ hunting bugs in the night🕵️👨‍💻
+- 👻 I’m good at being confused and staying late up. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
 - 🤵🏼 Fun fact: I love music, midnight hacking, sports🤼‍♂️ and building some Miro mindmaps & Power Point presentations🤣
 - 👨‍💻 2022 Goals: <br>
