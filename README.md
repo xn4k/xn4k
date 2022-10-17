@@ -29,6 +29,8 @@ Passionate about cybersecurity, working currently as a Software Developer, i lik
 <a href="https://www.buymeacoffee.com/xn4k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
 <!-- pm me if you want to connect :P-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere all over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin and introduce yourself (don’t only say hello, tell me about you)</b> 😊 </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere all over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin and introduce yourself (don’t only say hello, tell me about you)</b>
+😊 </em>
+<img src="https://raw.githubusercontent.com/gist/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" width="60">
 
 </p>
