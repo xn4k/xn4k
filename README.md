@@ -12,8 +12,9 @@ Passionate about cybersecurity, working currently as a Software Developer, i lik
 - 👾 Currently doing a ~3 year long Apprenticeship, as Computer Science Expert &+ hunting bugs in the night🕵️👨‍💻
 - 👻 I’m good at being confused and staying late up. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
-- 🤵🏼 Fun fact: I am hyper self-aware, introverted, love music, chess, midnight hacking, sports🤼‍♂️ and building some Miro mindmaps & Power Point presentations🤣
-- 👨‍💻 2022 Goals: <br>
+- 🤵🏼 Fun fact: I am introverted, love music, chess, midnight hacking, sports🤼‍♂️ and building some Miro mindmaps & Power Point presentations🤣
+- 👨‍💻 2023 Goals: <br>
+- <p>Still thinking about it</p>
   "The Game Plan is go in there, swoosh swoosh hit him with some good shit, not get hit, come home with a pocket full of cash."
   [![MY PLANS FOR 2022](https://img.youtube.com/vi/OCjAo2jBVQY/0.jpg)](https://youtu.be/OCjAo2jBVQY)
 .
@@ -33,5 +34,5 @@ Passionate about cybersecurity, working currently as a Software Developer, i lik
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere all over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin and introduce yourself (don’t only say hello, tell me about you)</b>
 😊 </em>
 </p>
-<p>-</p>
+
 <img src="https://raw.githubusercontent.com/gist/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" width="60">
