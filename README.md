@@ -14,10 +14,8 @@ Passionate about cybersecurity, working currently as a Software Developer, i lik
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
 - 🤵🏼 Fun fact: I am introverted, love music, chess, midnight hacking, sports🤼‍♂️ and building some Miro mindmaps & Power Point presentations🤣
 - 👨‍💻 2023 Goals: <br>
-- <p>Still thinking about it</p>
-  "The Game Plan is go in there, swoosh swoosh hit him with some good shit, not get hit, come home with a pocket full of cash."
-  [![MY PLANS FOR 2022](https://img.youtube.com/vi/OCjAo2jBVQY/0.jpg)](https://youtu.be/OCjAo2jBVQY)
-.
+ <p>Still thinking about it</p>
+ 
 - [🐳](https://xn4k.github.io/) My Blog
 - [🐳](https://www.youtube.com/watch?v=o-YBDTqX_ZU&ab_channel=MusRest) And finally my onlyfans ;)
 ----
