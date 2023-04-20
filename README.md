@@ -16,7 +16,7 @@ Passionate about cybersecurity, working currently as a Software Developer, i lik
 - 👨‍💻 2023 Goals: get my chess elo to 1500,
  
 - [🐳](https://xn4k.github.io/) My Blog
-- [🐳](https://www.youtube.com/watch?v=o-YBDTqX_ZU&ab_channel=MusRest) And finally my onlyfans ;)
+<!-- - [🐳](https://www.youtube.com/watch?v=o-YBDTqX_ZU&ab_channel=MusRest) And finally my onlyfans ;) -->
 ----
 <!-- languages and other stats-->
 <img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xn4k&show_icons=true&hide_border=true&theme=synthwave" />
