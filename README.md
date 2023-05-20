@@ -12,7 +12,7 @@ Passionate about cybersecurity, working currently as a Software Developer, i lik
 - 👾 Currently doing a ~3 year long Apprenticeship, as Computer Science Expert &+ hunting bugs in the night🕵️👨‍💻
 - 👻 I’m good at being confused and staying late up. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
-- 🤵🏼 Fun fact: I am introverted, love music, chess, midnight hacking, sports🤼‍♂️ and building some Miro mindmaps & Power Point presentations🤣
+- 🤵🏼 Fun fact: I am introverted, love music, 3 A.M. 5 Minutes Blitz chess, midnight hacking, sports🤼‍♂️ and building some Miro mindmaps & Power Point presentations🤣
 - 👨‍💻 2023 Goals: get my chess elo to 1500,
  
 - [🐳](https://xn4k.github.io/) My Blog
