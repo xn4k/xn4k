@@ -5,7 +5,7 @@
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mikeammic069/)
   <a href="mailto:stueckholz@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   
-[<img src="http://www.hackthebox.eu/badge/image/239301">](https://www.hackthebox.eu/home/users/profile/239301)
+[<img src="http://www.hackthebox.eu/badge/image/239301">](https://app.hackthebox.com/profile/239301)
   
   
 Passionate about cybersecurity, working currently as a Software Developer, i like to build things, participate in CTF's and play games. Interested in Web-application testing and coding.
