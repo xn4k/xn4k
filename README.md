@@ -8,7 +8,7 @@
 [<img src="http://www.hackthebox.eu/badge/image/239301">](https://app.hackthebox.com/profile/239301)
   
   
-Passionate about cybersecurity, working currently as a Software Developer, i like to build things, participate in CTF's and play games. Interested in Web-application testing and coding.
+Passionate about cybersecurity, i love hacking things, working currently as a Software Developer, i like to build things, participate in CTF's and play games. Interested in Web-application testing and coding.
 - 👾 Currently doing a ~3 year long Apprenticeship, as Computer Science Expert &+ hunting bugs in the night🕵️👨‍💻
 - 👻 I’m good at being confused and staying late up. 
 - 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
