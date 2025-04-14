@@ -32,6 +32,6 @@ Mikhail – curious dev with a hacker mindset
 
 
 🔧 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deinUsername&show_icons=true&theme=radical" alt="Mikhail's GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xn4k&theme=radical" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xn4k&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xn4k&show_icons=true&theme=radical" alt="Mikhail's GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xn4k&theme=radical" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xn4k&layout=compact&theme=radical" alt="Top Languages" /> </p>
 🧙‍♂️ Still confused, still building... but always leveling up.
 👾 "brauchste. Weißt nur noch nicht warum."
