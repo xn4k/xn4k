@@ -31,10 +31,6 @@ I’m surprisingly good at being confused and still making things work.
 - Pass final exams and level up into the next chapter  
 
 ---
-
-💬 Let's connect – I’m always open for collabs, convos, and cool ideas.
- 
-
 <!-- - [🐳](https://www.youtube.com/watch?v=o-YBDTqX_ZU&ab_channel=MusRest) And finally my onlyfans ;) -->
 ----
 <!-- languages and other stats-->
@@ -47,7 +43,7 @@ I’m surprisingly good at being confused and still making things work.
 <a href="https://www.buymeacoffee.com/xn4k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
 <!-- pm me if you want to connect :P-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere all over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin and introduce yourself (don’t only say hello, tell me about you)</b>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere all over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin</b>
 😊 </em>
 </p>
 
