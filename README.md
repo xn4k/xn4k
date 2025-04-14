@@ -8,14 +8,33 @@
 [<img src="http://www.hackthebox.eu/badge/image/239301">](https://app.hackthebox.com/profile/239301)
   
   
-Passionate about cybersecurity, i love hacking things, working currently as a Software Developer, i like to build things, participate in CTF's and play games. Interested in Web-application testing and coding.
-- 👾 Currently doing a ~3 year long Apprenticeship, as Computer Science Expert &+ hunting bugs in the night🕵️👨‍💻
-- 👻 I’m good at being confused and staying late up. 
-- 🧙‍♂️ I’m looking to collab. with other content creators, so reach out to connect!
-- 🤵🏼 Fun fact: I am introverted, love music, 3 A.M. 5 Minutes Blitz chess, midnight hacking, sports🤼‍♂️ and building some Miro mindmaps & Power Point presentations🤣
-- 👨‍💻 2023 Goals: get my chess elo to 1500,
+### Hey there 👋 I'm Mikhail  
+
+Passionate about cybersecurity & all things tech. I'm currently in the final stretch of my apprenticeship as an IT Specialist, while sharpening my skills in web app testing, hacking, and bug bounty hunting.
+
+- 🐞 Night owl by nature – I hunt bugs when others sleep.  
+- 💻 Software developer by day, curious hacker by heart.  
+- 🎮 I enjoy CTFs, scripting weird ideas, and breaking things (with permission).  
+- 📚 Currently learning advanced recon techniques & diving deeper into offensive security.  
+- 🤝 Looking to collaborate with content creators & fellow hackers – hit me up!  
+- 🎧 Big fan of midnight tunes, mind maps, and random PowerPoint sprints.  
+- 🧠 Also addicted to: late-night chess, no-gi grappling, and drinking too much tee.
+- - [🐳](https://xn4k.github.io/) My digital garden.  
+
+### Fun Fact  
+I’m surprisingly good at being confused and still making things work.
+
+### 2025 Goals  
+- Get my chess Elo to 1500  
+- Build and publish at least 1 full recon automation tool  
+- Launch my own YouTube / Podcast project on hacking, lifestyle & tech  
+- Pass final exams and level up into the next chapter  
+
+---
+
+💬 Let's connect – I’m always open for collabs, convos, and cool ideas.
  
-- [🐳](https://xn4k.github.io/) My Blog
+
 <!-- - [🐳](https://www.youtube.com/watch?v=o-YBDTqX_ZU&ab_channel=MusRest) And finally my onlyfans ;) -->
 ----
 <!-- languages and other stats-->
