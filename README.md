@@ -2,26 +2,16 @@
 <!-- Badges --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=deinUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <img src="https://img.shields.io/badge/OSINT-Recon-blue?style=flat&logo=linux" /> <img src="https://img.shields.io/badge/CTFs-Active-orange?style=flat&logo=tryhackme" /> <img src="https://img.shields.io/badge/Chess-ELO_Grind-ffce00?style=flat&logo=lichess" /> </p>
 🧠 About Me
 whoami
-Mikhail – curious dev with a hacker mindset
+Passionate about cybersecurity & all things tech. I'm currently in the final stretch of my apprenticeship as an IT Specialist, while sharpening my skills in web app testing, hacking, and bug bounty hunting.
 
-💻 Currently finishing my 3-year IT apprenticeship
-
-🐞 Bug bounty hunter by night – automating recon & testing web apps
-
-🎯 Focused on offensive security, scripting, and tooling
-
-🧩 I break things to understand how they work – responsibly, of course
-
-🎧 Midnight vibes: Music, mind maps, coffee & random PowerPoint energy
-
-📈 2025 Goals
-♟ Reach 1500 Elo in Blitz Chess (currently addicted)
-
-🛠 Build & publish my own recon automation tool
-
-🎙 Start my YouTube/Podcast on hacking & lifestyle
-
-🧑‍🎓 Finish apprenticeship strong and prep for next chapter
+- 🐞 Night owl by nature – I hunt bugs when others sleep.  
+- 💻 Software developer by day, curious hacker by heart.  
+- 🎮 I enjoy CTFs, scripting weird ideas, and breaking things (with permission).  
+- 📚 Currently learning advanced recon techniques & diving deeper into offensive security.  
+- 🤝 Looking to collaborate with content creators & fellow hackers – hit me up!  
+- 🎧 Big fan of midnight tunes, mind maps, and random PowerPoint sprints.  
+- 🧠 Also addicted to: late-night chess, no-gi grappling, and drinking too much tee.
+- [🐳](https://xn4k.github.io/) My digital garden.  
 
 🛠 Tech Stack
 
