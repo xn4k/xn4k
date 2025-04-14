@@ -12,7 +12,26 @@ Passionate about cybersecurity & all things tech. I'm currently in the final str
 - 🧠 Also addicted to: late-night chess, no-gi grappling, and drinking too much tee.
 - [🐳](https://xn4k.github.io/) My digital garden.  
 
-🛠 Tech Stack
+## 🛠 Tech Stack
+
+### 🖥 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
+
+### 🔐 Cybersecurity & Tools
+![Nmap](https://img.shields.io/badge/-Nmap-008080?style=flat)
+![FFUF](https://img.shields.io/badge/-ffuf-black?style=flat)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6600?style=flat&logo=burpsuite)
+![Nessus](https://img.shields.io/badge/-Nessus-00569C?style=flat)
+
+### 💻 General Tools
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode)
 
 ## 🖥️ Terminal Mood
 
