@@ -1,6 +1,14 @@
 <!-- Profil-Header --> <h1 align="center">Hey 👋 I'm Mikhail</h1> <p align="center"> 🧑‍💻 Cybersecurity Enthusiast • Software Developer • Recon Nerd • Midnight Coder </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=I+break+things+(with+permission)+%F0%9F%91%AE;Bug+Bounty+Hunter+%F0%9F%90%9E;Recon+Automation+Nerd+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+hack+the+planet+%F0%9F%92%BB" alt="Typing SVG" /> </p>
 <!-- Badges --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=deinUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <img src="https://img.shields.io/badge/OSINT-Recon-blue?style=flat&logo=linux" /> <img src="https://img.shields.io/badge/CTFs-Active-orange?style=flat&logo=tryhackme" /> <img src="https://img.shields.io/badge/Chess-ELO_Grind-ffce00?style=flat&logo=lichess" /> </p>
 
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/HazeBunny/)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mikhail-zhivoderov/)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mikeammic069/)
+  <a href="mailto:stueckholz@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+  
+[<img src="http://www.hackthebox.eu/badge/image/239301">](https://app.hackthebox.com/profile/239301)
+
+
 Passionate about cybersecurity & all things tech. I'm currently in the final stretch of my apprenticeship as an IT Specialist, while sharpening my skills in web app testing, hacking, and bug bounty hunting.
 
 - 🐞 Night owl by nature – I hunt bugs when others sleep.  
