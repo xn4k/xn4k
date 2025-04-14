@@ -31,7 +31,7 @@ Passionate about cybersecurity & all things tech. I'm currently in the final str
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode)
+![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=goland&logoColor=white)
 
 ## 🖥️ Terminal Mood
 
