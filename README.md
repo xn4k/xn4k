@@ -44,12 +44,11 @@ Passionate about cybersecurity & all things tech. I'm currently in the final str
 ## 🖥️ Terminal Mood
 
 <pre>
-     __  __ _       _     _       _     _           
-    |  \/  (_)     (_)   | |     (_)   | |          
-    | \  / |_ _ __  _  __| | __ _ _  __| | ___ _ __ 
-    | |\/| | | '_ \| |/ _` |/ _` | |/ _` |/ _ \ '__|
-    | |  | | | | | | | (_| | (_| | | (_| |  __/ |   
-    |_|  |_|_|_| |_|_|\__,_|\__,_|_|\__,_|\___|_|   
+              _  _   _    
+__  ___ __ | || | | | __
+\ \/ / '_ \| || |_| |/ /
+ >  <| | | |__   _|   < 
+/_/\_\_| |_|  |_| |_|\_\   
 </pre>
 📫 Connect with me
 <!-- pm me if you want to connect :P-->
