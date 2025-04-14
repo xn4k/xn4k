@@ -1,4 +1,4 @@
-## Hi, my name is Mikhail
+## Hey there 👋 I'm Mikhail  
 
   [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/HazeBunny/)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mikhail-zhivoderov/)
@@ -7,9 +7,6 @@
   
 [<img src="http://www.hackthebox.eu/badge/image/239301">](https://app.hackthebox.com/profile/239301)
   
-  
-### Hey there 👋 I'm Mikhail  
-
 Passionate about cybersecurity & all things tech. I'm currently in the final stretch of my apprenticeship as an IT Specialist, while sharpening my skills in web app testing, hacking, and bug bounty hunting.
 
 - 🐞 Night owl by nature – I hunt bugs when others sleep.  
