@@ -19,7 +19,7 @@ Passionate about cybersecurity & all things tech. I'm currently in the final str
 - 🤝 Looking to collaborate with content creators & fellow hackers – hit me up!  
 - 🎧 Big fan of midnight tunes, mind maps, and random PowerPoint sprints.  
 - 🧠 Also addicted to: late-night chess, no-gi grappling, and drinking too much tee.
-- - [🐳](https://xn4k.github.io/) My digital garden.  
+- [🐳](https://xn4k.github.io/) My digital garden.  
 
 ### Fun Fact  
 I’m surprisingly good at being confused and still making things work.
