@@ -1,65 +1,57 @@
-<!-- Profil-Header --> <h1 align="center">Hey 👋 I'm Mikhail</h1> <p align="center"> 🧑‍💻 Cybersecurity Enthusiast • Software Developer • Recon Nerd • Midnight Coder </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=I+break+things+(with+permission)+%F0%9F%91%AE;Bug+Bounty+Hunter+%F0%9F%90%9E;Recon+Automation+Nerd+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+hack+the+planet+%F0%9F%92%BB" alt="Typing SVG" /> </p>
-<!-- Badges --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=deinUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <img src="https://img.shields.io/badge/OSINT-Recon-blue?style=flat&logo=linux" /> <img src="https://img.shields.io/badge/CTFs-Active-orange?style=flat&logo=tryhackme" /> <img src="https://img.shields.io/badge/Chess-ELO_Grind-ffce00?style=flat&logo=lichess" /> </p>
+<!-- xn4k / developer profile -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xn4k/xn4k/main/assets/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xn4k/xn4k/main/assets/light_mode.svg">
+    <img src="https://raw.githubusercontent.com/xn4k/xn4k/main/assets/dark_mode.svg" width="100%" alt="Mikhail Zhivoderov — xn4k terminal profile with Unicode dot-matrix portrait" />
+  </picture>
 
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/HazeBunny/)
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mikhail-zhivoderov/)
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mikeammic069/)
-  <a href="mailto:stueckholz@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-  
-[<img src="http://www.hackthebox.eu/badge/image/239301">](https://app.hackthebox.com/profile/239301)
+  <a href="https://zhivoderovdev.web.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1e293b?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
+  <a href="https://app.hackthebox.com/profile/239301"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-111827?style=flat-square&logo=hackthebox&logoColor=9FEF00" /></a>
+  <img src="https://komarev.com/ghpvc/?username=xn4k&label=profile%20views&color=159db7&style=flat-square" alt="Profile views" />
+</div>
 
+### `> cat about.md`
 
-Passionate about cybersecurity & all things tech. I'm currently in the final stretch of my apprenticeship as an IT Specialist, while sharpening my skills in web app testing, hacking, and bug bounty hunting.
+Software developer based in Cologne, Germany. I build practical applications, self-hosted systems and security tooling, usually after midnight. Interested in **cybersecurity, reconnaissance, automation, and useful interfaces**. Outside of the terminal: **No-Gi grappling, chess, and tea**.
 
-- 🐞 Night owl by nature – I hunt bugs when others sleep.  
-- 💻 Software developer by day, curious hacker by heart.  
-- 🎮 I enjoy CTFs, scripting weird ideas, and breaking things (with permission).  
-- 📚 Currently learning advanced recon techniques & diving deeper into offensive security.  
-- 🤝 Looking to collaborate with content creators & fellow hackers – hit me up!  
-- 🎧 Big fan of midnight tunes, mind maps, and random PowerPoint sprints.  
-- 🧠 Also addicted to: late-night chess, no-gi grappling, and drinking too much tee.
-- [🐳](https://xn4k.github.io/) My digital garden.  
+### `> ls ~/projects/`
 
-## 🛠 Tech Stack
+| Project | What I've built |
+| :-- | :-- |
+| **[Hermes](https://github.com/xn4k/hermes)** | Local command center with Vue 3, Go, Docker, PostgreSQL, news feeds and multi-model weather charts. |
+| **[ISOBAR](https://github.com/xn4k/WeatherApp)** | Weather application comparing forecast models and visualizing uncertainty, not pretending predictions are guarantees. |
+| **[DevPage](https://github.com/xn4k/DevPage)** | Developer portfolio, hidden terminal, and a live security research lab. |
 
-### 🖥 Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
+### `> htb --profile`
 
-### 🔐 Cybersecurity & Tools
-![Nmap](https://img.shields.io/badge/-Nmap-008080?style=flat)
-![FFUF](https://img.shields.io/badge/-ffuf-black?style=flat)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6600?style=flat&logo=burpsuite)
-![Nessus](https://img.shields.io/badge/-Nessus-00569C?style=flat)
+<a href="https://app.hackthebox.com/profile/239301">
+  <img src="https://www.hackthebox.eu/badge/image/239301" alt="Hack The Box profile badge" />
+</a>
 
-### 💻 General Tools
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=goland&logoColor=white)
+[View my Hack The Box profile](https://app.hackthebox.com/profile/239301)
 
-## 🖥️ Terminal Mood
+### `> git stats --live`
 
-<pre>
-              _  _   _    
-__  ___ __ | || | | | __
-\ \/ / '_ \| || |_| |/ /
- >  <| | | |__   _|   < 
-/_/\_\_| |_|  |_| |_|\_\   
-</pre>
-📫 Connect with me
-<!-- pm me if you want to connect :P-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love it to meet new/ different people from everywhere all over the world, so if you want to connect, just <a href="https://www.linkedin.com/in/mikhail-zhivoderov/">message</a> me on linkedin</b>
-😊 </em>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xn4k&show_icons=true&theme=github_dark&hide_border=true" alt="Mikhail's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xn4k&layout=compact&theme=github_dark&hide_border=true" alt="Most-used public repository languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=xn4k&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
-<img src="https://raw.githubusercontent.com/gist/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" width="60">
+### `> cat ~/.contacts`
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/mikhail-zhivoderov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/HazeBunny/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/mikeammic069/"><img src="https://img.shields.io/badge/Instagram-30363d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:stueckholz@hotmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://zhivoderovdev.web.app"><img src="https://img.shields.io/badge/Portfolio-30363d?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+</div>
 
+<p align="center"><sub><code>Still curious. Still building. Usually after midnight.</code></sub></p>
 
-🔧 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xn4k&show_icons=true&theme=radical" alt="Mikhail's GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xn4k&theme=radical" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xn4k&layout=compact&theme=radical" alt="Top Languages" /> </p>
-🧙‍♂️ Still confused, still building... but always leveling up.
+<!-- Header images are generated from assets/portrait-braille.txt by scripts/generate_profile.py.
+     GitHub Actions updates the SVG stats daily, and can also be run manually.
+     The header uses Unicode Braille characters as actual SVG text nodes, not a PNG snapshot. -->
