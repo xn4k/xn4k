@@ -137,6 +137,6 @@
 <path d="M940 943 H971" stroke="#61758b" stroke-width="1.5" stroke-dasharray="2 5" opacity="0.6"/>
 <text x="988" y="948" font-size="17" font-weight="400" fill="#14263a">20</text>
 <line x1="688" y1="972" x2="1493" y2="972" stroke="#c0ccda"/>
-<text x="690" y="992" font-size="13" font-weight="400" fill="#61758b">SYNC: 06 Nov 2026 · 14:13 UTC</text>
+<text x="690" y="992" font-size="13" font-weight="400" fill="#61758b">SYNC: 07 Nov 2026 · 12:56 UTC</text>
 <text x="44" y="1016" font-size="14" font-weight="400" fill="#61758b">// commits = last 12 months · LOC = current public source snapshot</text>
 </g></svg>
