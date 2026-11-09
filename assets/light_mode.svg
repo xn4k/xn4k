@@ -126,7 +126,7 @@
 <text x="988" y="828" font-size="17" font-weight="400" fill="#14263a">20</text>
 <text x="691" y="858" font-size="16" font-weight="600" fill="#93600a">Commits (12m)</text>
 <path d="M940 853 H971" stroke="#61758b" stroke-width="1.5" stroke-dasharray="2 5" opacity="0.6"/>
-<text x="988" y="858" font-size="17" font-weight="400" fill="#14263a">109</text>
+<text x="988" y="858" font-size="17" font-weight="400" fill="#14263a">88</text>
 <text x="691" y="888" font-size="16" font-weight="600" fill="#93600a">LOC (public HEAD)</text>
 <path d="M940 883 H971" stroke="#61758b" stroke-width="1.5" stroke-dasharray="2 5" opacity="0.6"/>
 <text x="988" y="888" font-size="17" font-weight="400" fill="#14263a">108,571</text>
@@ -137,6 +137,6 @@
 <path d="M940 943 H971" stroke="#61758b" stroke-width="1.5" stroke-dasharray="2 5" opacity="0.6"/>
 <text x="988" y="948" font-size="17" font-weight="400" fill="#14263a">20</text>
 <line x1="688" y1="972" x2="1493" y2="972" stroke="#c0ccda"/>
-<text x="690" y="992" font-size="13" font-weight="400" fill="#61758b">SYNC: 08 Nov 2026 · 13:19 UTC</text>
+<text x="690" y="992" font-size="13" font-weight="400" fill="#61758b">SYNC: 09 Nov 2026 · 16:11 UTC</text>
 <text x="44" y="1016" font-size="14" font-weight="400" fill="#61758b">// commits = last 12 months · LOC = current public source snapshot</text>
 </g></svg>
